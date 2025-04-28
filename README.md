@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**200IQ-finn12/200IQ-finn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**200IQ-finn12/200IQ-finn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.aimbot
 
 Here are some ideas to get you started:
 
